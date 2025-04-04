@@ -1,0 +1,26 @@
+{
+  "name": "unit_testing_training",
+  "version": "1.0.0",
+  "description": "Hands on demos for jest unit testing concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nthangeniphumudzo/unit_testing_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nthangeniphumudzo/unit_testing_training/issues"
+  },
+  "homepage": "https://github.com/nthangeniphumudzo/unit_testing_training#readme",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.5",
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
